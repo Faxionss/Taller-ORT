@@ -1,0 +1,27 @@
+div{
+    border-radius: 1rem;
+    border: 1px solid black;
+    margin: 0 auto;
+    text-align: center;
+    padding: 2rem;
+    max-width: 20rem;
+    margin-top: 4rem;
+    background-color: rgb(255, 242, 215);
+   
+}
+
+div h1{
+    margin: 0;
+    padding: 0;
+    border-bottom: 1px solid black;
+ 
+   
+
+}
+
+div p{
+    margin: 0;
+    padding: 0;
+    margin-bottom: 1rem;
+  
+}
